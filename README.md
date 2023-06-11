@@ -5,7 +5,7 @@
 
 
 # NAMES
-<h1>AKIMANA GABRIEL</h1>
+<h1>Vainquer</h1>
 
 ## Functional requirements
 <p>
